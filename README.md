@@ -13,10 +13,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
-</p>
-
 # beautysalon
 
 ![image](https://user-images.githubusercontent.com/55243348/143255744-ee604014-2391-419f-bc43-628df4096191.png)
